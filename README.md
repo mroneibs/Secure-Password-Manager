@@ -87,12 +87,6 @@ A modern, secure, and user-friendly password manager for Windows, built with Pyt
 
 This project is licensed under the MIT License. See [LICENSE.txt](LICENSE.txt) for details.
 
----
-
-## Credits
-- Developed by Bhupender (Mrone)
-- UI: [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- Encryption: [cryptography](https://cryptography.io/)
 
 ---
 
