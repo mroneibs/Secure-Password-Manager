@@ -35,7 +35,7 @@ A modern, secure, and user-friendly password manager for Windows, built with Pyt
 ### 2. Or Build from Source
 - Clone this repo:
   ```sh
-  git clone [https://github.com/mroneibs/Secure-Password-Manager.git]
+  git clone https://github.com/mroneibs/Secure-Password-Manager.git
   cd Secure-Password-Manager
   ```
 - Install Python 3.10+ and pip.
