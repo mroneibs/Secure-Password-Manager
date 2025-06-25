@@ -9,7 +9,6 @@ A modern, secure, and user-friendly password manager for Windows, built with Pyt
 - **Strong Password Generation** (up to 20 characters, customizable character sets)
 - **Encrypted Storage** (Fernet encryption, per-user isolation)
 - **User Authentication** (bcrypt password hashing, admin login)
-- **Per-User Password Vault** (each user sees only their own passwords)
 - **Search & Export** (search by title/name, export to CSV/JSON)
 - **Modern Dark Theme** (particle animation, stylish buttons, responsive layout)
 - **Password Visibility Toggle** (show/hide, copy to clipboard)
