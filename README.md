@@ -20,7 +20,6 @@ A modern, secure, and user-friendly password manager for Windows, built with Pyt
 
 ## Screenshots
 
-> _Add screenshots here after your first run!_
 > ![image](https://github.com/user-attachments/assets/33466753-5900-4337-ae6d-b33383cc85e5)
 > ![image](https://github.com/user-attachments/assets/1c12f50c-372c-46bf-b220-88419f47f58f)
 
